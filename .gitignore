@@ -1,0 +1,11 @@
+/*
+!.gitignore
+!/image_folder/
+!/src/
+!/target/
+!/output/
+!pom.xml
+!readme.md
+!Instance2.txt
+!readme.pdf
+!Visualization.py
